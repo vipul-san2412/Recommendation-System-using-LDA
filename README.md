@@ -12,7 +12,6 @@ The project aims to build a content recommendation system using topic modeling a
   - `Recommendation-System-LDA.ipynb/`: The main ipynb file that contains the code for the project
 - `Dataset/`: Contains the Netflix dataset used for analysis.
 - `Papers/`: Relevant and Referenced papers
-- `results/`: Outputs of topic modeling, coherence scores, and recommendations.
 
 ## Getting Started
 
